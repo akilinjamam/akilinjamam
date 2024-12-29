@@ -1,6 +1,9 @@
 # Hi there 👋
-
+github-banner.png
 I'm Injamam Islam Chowdhury, a passionate web developer who loves building impactful website and web software. 🚀
+
+![Banner](https://raw.githubusercontent.com/akilinjamam/akilinjamam/main/github-banner.png)
+
 
 ## 🛠 Technologies & Tools
 - **Frontend**: React, Vite, HTML, CSS, Redux, Tailwind CSS, Bootstrap, Next JS, Typescript, 
