@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**akilinjamam/akilinjamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Injamam Islam Chowdhury, a passionate web developer who loves building impactful website and web software. 🚀
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+- **Frontend**: React, Vite, HTML, CSS, Redux, Tailwind CSS, Bootstrap, Next JS, Typescript, 
+- **Backend**: Node.js, Express, Prisma, Typescript,
+- **Database**: MongoDB, PostgreSQL
+- **Hosting**: ExonHost, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://linkedin.com/in/yourname)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-green)](https://yourwebsite.com)
+
