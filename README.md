@@ -6,7 +6,7 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
 - **Frontend**: React, Vite, HTML, CSS, Redux, Tailwind CSS, Bootstrap, Next JS, Typescript, 
 - **Backend**: Node.js, Express, Prisma, Typescript,
 - **Database**: MongoDB, PostgreSQL
-- **Hosting**: ExonHost, Vercel
+- **Hosting**: ExonHost, Vercel, Netlify, AWS
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akilinjamam&show_icons=true&theme=radical&layout=compact)
