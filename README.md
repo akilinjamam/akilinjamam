@@ -56,6 +56,9 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akilinjamam&show_icons=true&theme=radical&layout=compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akilinjamam&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilinjamam&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilinjamam&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akilinjamam&show_icons=true&theme=radical)
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Injamam-blue)](https://www.linkedin.com/in/injamam-islam-chowdhury-482574158/)
