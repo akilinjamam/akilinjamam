@@ -17,5 +17,6 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Injamam-blue)](https://www.linkedin.com/in/injamam-islam-chowdhury-482574158/)
+[![Gmail](https://img.shields.io/badge/Gmail-akilinjamam@gmail.com-red)](mailto:akilinjamam@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-green)](https://yourwebsite.com)
 
