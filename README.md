@@ -28,7 +28,6 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-```
 ## Technologies I Work With
 
 <div style="display: flex; gap: 15px; align-items: center; justify-content: center;">
@@ -38,7 +37,6 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
 </div>
 
-```
 
 
 
