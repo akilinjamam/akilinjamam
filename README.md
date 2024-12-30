@@ -16,6 +16,6 @@ I'm Injamam Islam Chowdhury, a passionate web developer who loves building impac
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilinjamam&theme=radical)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/injamam-islam-chowdhury-482574158/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-green)](https://yourwebsite.com)
 
